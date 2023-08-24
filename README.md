@@ -1,2 +1,1 @@
-My first readme,
-tell me what you think
+My first readme, tell me what you think
